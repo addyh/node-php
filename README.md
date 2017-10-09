@@ -43,6 +43,7 @@ Dependencies
 
 License
 -------
+Copyright © 2017 addyh https://github.com/addyh
 
 Copyright © 2014-2016 Martin K. Schröder <mkschreder.uk@gmail.com>
 
